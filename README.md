@@ -11,13 +11,14 @@ git clone https://github.com/midia-lima/albuns-de-fotos.git
 ```
 <h2>Instalando às dependências</h2>
 <p>Após fazer o clone, você precisa instalar as dependências do projeto, sem as dependências o projeto não funciona. 
-Abra o terminal o Git Bash na pasta do projeto e execute o comando</p>
+Abra o terminal ou Git Bash na pasta do projeto e execute o comando:</p>
 
 ```shell
 npm install
 ```
 <h2>Abrindo o projeto no navegador</h2>
-<p>Para abrir no navegador você precisa abrir o terminal ou Git Bash na pasta do projeto e digitar o comando</p>
+<p>Para abrir no navegador você precisa abrir o terminal ou Git Bash na pasta do projeto e digitar o comando:</p>
+
 ```shell
 npm start
 ```
