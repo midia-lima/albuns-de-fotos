@@ -4,14 +4,14 @@
 <p>Esse projeto foi desenvolvido durante o curso de AngularJS da Alura</p>
 
 <h2>Clonando o Repósitorio</h2>
-<p>Para clonar o repósitorio, você deve abrir o terminal ou git bash na pasta que deseja adicionar o projeto. Após isso execute a linha de comando:</p>
+<p>Na pasta do projeto abra o terminal e digite o comando abaixo:</p>
 
 ```shell
 git clone https://github.com/midia-lima/albuns-de-fotos.git
 ```
 <h2>Instalando às dependências</h2>
 <p>Após fazer o clone, você precisa instalar as dependências do projeto, sem as dependências o projeto não funciona. 
-Abra o terminal ou Git Bash na pasta do projeto e execute o comando:</p>
+Na pasta do projeto abra o terminal e execute o comando:</p>
 
 ```shell
 npm install
