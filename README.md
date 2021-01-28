@@ -3,7 +3,7 @@
 <h2>Descrição</h2>
 <p>Esse projeto foi desenvolvido durante o curso de AngularJS da Alura</p>
 
-<h2>Clonando o Repósitorio</h2>
+<h2>Clonando o Repositório</h2>
 <p>Na pasta do projeto abra o terminal e digite o comando abaixo:</p>
 
 ```shell
