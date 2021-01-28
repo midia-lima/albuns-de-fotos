@@ -23,9 +23,4 @@ npm install
 npm start
 ```
 
-<p>Será criado um servidor usando a porta 3000, que abrirá o projeto no navegador, caso o projeto não abra sozinho é só digitar no navegador</p>
-
-```shell
-http://localhost:3000/
-```
-
+<p>Será criado um servidor usando a porta 3000, que abrirá o projeto no navegador, caso o projeto não abra sozinho é só digitar no navegador http://localhost:3000/</p>
