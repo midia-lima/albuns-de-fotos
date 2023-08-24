@@ -1,7 +1,7 @@
 <h1 align="center">Álbuns de Fotos com AngularJS</h1>
 
 <h2>Descrição</h2>
-<p>Esse projeto foi desenvolvido para a criação de um álbuns de fotos</p>
+<p>Esse projeto foi desenvolvido para a criação de um álbuns de fotos.</p>
 
 <h2>Clonando o Repositório</h2>
 <p>Na pasta do projeto abra o terminal e digite o comando abaixo:</p>
